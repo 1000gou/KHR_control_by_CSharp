@@ -1,0 +1,9 @@
+C:\Users\gouichi\AppData\Local\Temporary Projects\KHR_CONTROL_TEST1\bin\Release\KHR_CONTROL_TEST1.exe
+C:\Users\gouichi\AppData\Local\Temporary Projects\KHR_CONTROL_TEST1\bin\Release\KHR_CONTROL_TEST1.pdb
+C:\Users\gouichi\AppData\Local\Temporary Projects\KHR_CONTROL_TEST1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\gouichi\AppData\Local\Temporary Projects\KHR_CONTROL_TEST1\obj\x86\Release\KHR_CONTROL_TEST1.Form1.resources
+C:\Users\gouichi\AppData\Local\Temporary Projects\KHR_CONTROL_TEST1\obj\x86\Release\KHR_CONTROL_TEST1.Properties.Resources.resources
+C:\Users\gouichi\AppData\Local\Temporary Projects\KHR_CONTROL_TEST1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\gouichi\AppData\Local\Temporary Projects\KHR_CONTROL_TEST1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\gouichi\AppData\Local\Temporary Projects\KHR_CONTROL_TEST1\obj\x86\Release\KHR_CONTROL_TEST1.exe
+C:\Users\gouichi\AppData\Local\Temporary Projects\KHR_CONTROL_TEST1\obj\x86\Release\KHR_CONTROL_TEST1.pdb

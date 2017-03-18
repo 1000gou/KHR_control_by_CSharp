@@ -1,0 +1,23 @@
+C:\Users\gouichi\AppData\Local\Temporary Projects\KHR_CONTROL_TEST1\bin\Debug\KHR_CONTROL_TEST1.exe
+C:\Users\gouichi\AppData\Local\Temporary Projects\KHR_CONTROL_TEST1\bin\Debug\KHR_CONTROL_TEST1.pdb
+C:\Users\gouichi\AppData\Local\Temporary Projects\KHR_CONTROL_TEST1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gouichi\AppData\Local\Temporary Projects\KHR_CONTROL_TEST1\obj\x86\Debug\KHR_CONTROL_TEST1.Form1.resources
+C:\Users\gouichi\AppData\Local\Temporary Projects\KHR_CONTROL_TEST1\obj\x86\Debug\KHR_CONTROL_TEST1.Properties.Resources.resources
+C:\Users\gouichi\AppData\Local\Temporary Projects\KHR_CONTROL_TEST1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\gouichi\AppData\Local\Temporary Projects\KHR_CONTROL_TEST1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\gouichi\AppData\Local\Temporary Projects\KHR_CONTROL_TEST1\obj\x86\Debug\KHR_CONTROL_TEST1.exe
+C:\Users\gouichi\AppData\Local\Temporary Projects\KHR_CONTROL_TEST1\obj\x86\Debug\KHR_CONTROL_TEST1.pdb
+C:\Users\gouichi\documents\visual studio 2010\Projects\KHR_CONTROL_TEST1\KHR_CONTROL_TEST1\obj\x86\Debug\KHR_CONTROL_TEST1.exe
+C:\Users\gouichi\documents\visual studio 2010\Projects\KHR_CONTROL_TEST1\KHR_CONTROL_TEST1\obj\x86\Debug\KHR_CONTROL_TEST1.pdb
+C:\Users\gouichi\documents\visual studio 2010\Projects\KHR_CONTROL_TEST1\KHR_CONTROL_TEST1\bin\Debug\KHR_CONTROL_TEST1.exe
+C:\Users\gouichi\documents\visual studio 2010\Projects\KHR_CONTROL_TEST1\KHR_CONTROL_TEST1\bin\Debug\KHR_CONTROL_TEST1.pdb
+C:\Users\gouichi\documents\visual studio 2010\Projects\KHR_CONTROL_TEST1\KHR_CONTROL_TEST1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gouichi\documents\visual studio 2010\Projects\KHR_CONTROL_TEST1\KHR_CONTROL_TEST1\obj\x86\Debug\KHR_CONTROL_TEST1.Form1.resources
+C:\Users\gouichi\documents\visual studio 2010\Projects\KHR_CONTROL_TEST1\KHR_CONTROL_TEST1\obj\x86\Debug\KHR_CONTROL_TEST1.Properties.Resources.resources
+C:\Users\gouichi\documents\visual studio 2010\Projects\KHR_CONTROL_TEST1\KHR_CONTROL_TEST1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\gouichi\documents\visual studio 2010\Projects\KHR_CONTROL_TEST1\KHR_CONTROL_TEST1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\gouichi\documents\visual studio 2010\Projects\KHR_CONTROL_TEST1\KHR_CONTROL_TEST1\bin\Debug\Extensions.dll
+C:\Users\gouichi\documents\visual studio 2010\Projects\KHR_CONTROL_TEST1\KHR_CONTROL_TEST1\bin\Debug\Rcb4.dll
+C:\Users\gouichi\documents\visual studio 2010\Projects\KHR_CONTROL_TEST1\KHR_CONTROL_TEST1\bin\Debug\KHR_CONTROL_TEST1.exe.config
+C:\Users\gouichi\documents\visual studio 2010\Projects\KHR_CONTROL_TEST1\KHR_CONTROL_TEST1\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\gouichi\documents\visual studio 2010\Projects\KHR_CONTROL_TEST1\KHR_CONTROL_TEST1\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
